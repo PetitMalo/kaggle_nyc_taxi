@@ -8,3 +8,5 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
+pandas = ">=2.3.3,<3"
+fastparquet = ">=2024.11.0,<2025"
